@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://daphisoir.github.io/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/app/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/assets/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/css/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/includes/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/item/sitemap.html.gz
+Sitemap: https://daphisoir.github.io/src/sitemap.html.gz
